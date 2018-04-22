@@ -1,0 +1,3 @@
+[submodule "ips/oc8051"]
+	path = ips/oc8051
+	url = https://github.com/freecores/8051.git
